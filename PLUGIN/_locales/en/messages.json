@@ -1,0 +1,206 @@
+{
+   "activate": {
+      "message": "Activate Microphone"
+   },
+   "answer1": {
+      "message": "You have to give permission for Voice Search to use the microphone. Click to allow permissions."
+   },
+   "app_name": {
+      "message": "Voice Search"
+   },
+   "background_view_title": {
+      "message": "Voice Search Background Page"
+   },
+   "bing_search_name": {
+      "message": "Bing"
+   },
+   "bing_search_uri_template": {
+      "message": "http://www.bing.com/search?q=%s"
+   },
+   "changelog": {
+      "message": "Changelog"
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "duckduckgo_search_name": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_search_uri_template": {
+      "message": "http://duckduckgo.com/?q=%s"
+   },
+   "extension_description": {
+      "message": "Search by speaking."
+   },
+   "extension_name": {
+      "message": "Voice Search"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "google_images_search_name": {
+      "message": "Google Images"
+   },
+   "google_images_search_uri_template": {
+      "message": "http://www.google.com/images?q=%s"
+   },
+   "google_maps_search_name": {
+      "message": "Google Maps"
+   },
+   "google_maps_search_uri_template": {
+      "message": "http://maps.google.com/maps?q=%s"
+   },
+   "google_search_name": {
+      "message": "Google"
+   },
+   "google_search_uri_template": {
+      "message": "http://www.google.com/search?q=%s"
+   },
+   "google_videos_search_name": {
+      "message": "Google Videos"
+   },
+   "google_videos_search_uri_template": {
+      "message": "http://www.google.com/search?q=%s&tbs=vid:1"
+   },
+   "has_mic_permissions": {
+      "message": "Voice search is ready to go!"
+   },
+   "home": {
+      "message": "Home"
+   },
+   "mic_permissions": {
+      "message": "Please make sure your microphone is plugged in and give microphone permissions by clicking the button below"
+   },
+   "options_title": {
+      "message": "Voice Search Options"
+   },
+   "opts_default_engine": {
+      "message": "The first search engine is the default used when searching."
+   },
+   "opts_delete_drag": {
+      "message": "Drag to trash can to delete"
+   },
+   "opts_delete_search_engine": {
+      "message": "Drag search engines to the trash can to delete them."
+   },
+   "opts_name_column": {
+      "message": "Name"
+   },
+   "opts_restore_defaults_button": {
+      "message": "Restore Defaults"
+   },
+   "opts_save_button": {
+      "message": "Save"
+   },
+   "opts_search_engines": {
+      "message": "Search Engines"
+   },
+   "opts_settings_saved": {
+      "message": "Settings saved."
+   },
+   "opts_title": {
+      "message": "Voice Search Options"
+   },
+   "opts_uri_column": {
+      "message": "URL"
+   },
+   "opts_uri_format": {
+      "message": "Insert %s where the query should go."
+   },
+   "opts_website_integration": {
+      "message": "Website Integration"
+   },
+   "opts_website_integration_all": {
+      "message": "all text fields"
+   },
+   "opts_website_integration_label": {
+      "message": "Add speech input buttons to "
+   },
+   "opts_website_integration_none": {
+      "message": "nothing"
+   },
+   "opts_website_integration_search": {
+      "message": "search fields"
+   },
+   "popup_debug_engine_name": {
+      "message": "Search Engine:"
+   },
+   "popup_debug_query": {
+      "message": "Query:"
+   },
+   "popup_debug_test_query": {
+      "message": "Test"
+   },
+   "popup_debug_uri": {
+      "message": "URI:"
+   },
+   "popup_search_engines_select": {
+      "message": "Search Engines"
+   },
+   "popup_title": {
+      "message": "Voice Search"
+   },
+   "question1": {
+      "message": "Voice Search is stuck loading, what should I do?"
+   },
+   "report_bug": {
+      "message": "Report a bug"
+   },
+   "search_engines": {
+      "message": "Search Engines"
+   },
+   "settings": {
+      "message": "Word Replacements"
+   },
+   "speech_faq": {
+      "message": "Voice Search FAQ"
+   },
+   "subConf": {
+      "message": "You have successfully upgraded to Pro"
+   },
+   "unlimited_words": {
+      "message": "Unlimited Speech Recognition"
+   },
+   "version_message": {
+      "message": "Version 1.1.2"
+   },
+   "welcome": {
+      "message": "Welcome to Voice Search"
+   },
+   "what_get": {
+      "message": "Features"
+   },
+   "wikipedia_search_name": {
+      "message": "Wikipedia"
+   },
+   "wikipedia_search_uri_template": {
+      "message": "http://en.wikipedia.org/w/index.php?title=Special:Search&search=%s"
+   },
+   "wolframalpha_search_name": {
+      "message": "Wolfram|Alpha"
+   },
+   "wolframalpha_search_uri_template": {
+      "message": "http://www.wolframalpha.com/input/?i=%s"
+   },
+   "word_replacement": {
+      "message": "Word Replacement"
+   },
+   "word_replacement_ex": {
+      "message": "For example if you say \"my email address\" Voice Search will automatically fill in the E-mail you specified"
+   },
+   "word_replacement_setup": {
+      "message": "Setup Word Replacements"
+   },
+   "yahoo_search_name": {
+      "message": "Yahoo!"
+   },
+   "yahoo_search_uri_template": {
+      "message": "http://search.yahoo.com/search?p=%s"
+   },
+   "youtube_search_name": {
+      "message": "YouTube"
+   },
+   "youtube_search_uri_template": {
+      "message": "http://www.youtube.com/results?search_query=%s"
+   }
+}

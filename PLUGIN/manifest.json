@@ -1,0 +1,25 @@
+{
+   "browser_action": {
+      "default_icon": "images/chromium-speech_input_mic_full-19.png",
+      "default_popup": "views/popup.xhtml",
+      "default_title": "COMMAND"
+   },
+   "content_scripts": [ {
+      "js": [ "lib/iSpeechRecognizer.min.js", "lib/iSpeechWorker.min.js"],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "icons": {
+      "128": "images/chromium-speech_input_mic_full-128.png",
+      "16": "images/chromium-speech_input_mic_full-16.png",
+      "48": "images/chromium-speech_input_mic_full-48.png",
+      "68": "images/chromium-speech_input_mic_full-68.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDDhdCMB1/FVpqdCwxKBUvI1tDxH581Piy6rbUtGXMEIyE9QbVWwRsbCHzpooGlk+FmyWVFP92a5mt4dKTJnB8+sN/ETNm2r49Pf/Rin0449KrDExnG53k/iE8ahGChFp1PIsnS5Kst9Qs3nQRBloRX2EgFqVmLpSmfBXpaP84bjQIDAQAB",
+   "manifest_version": 2,
+   "name": "SPEECHRECOG",
+   "permissions": [ "chrome://favicon/", "tabs", "storage", "contextMenus", "activeTab", "http://*/*", "https://*/*", "cookies", "proxy", "unlimitedStorage" ],
+   "version": "0.1.1"
+  
+}
